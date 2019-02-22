@@ -2,8 +2,6 @@
   {
 	"id": "dva",
 	"heroType":"tank",
-    "firstType": "person",
-    "secondType": "Stark",
     "img": "resources/heros/img/list/dva.png",
     "name": "D.Va",
     "html": "resources/heros/dva/"
@@ -11,8 +9,6 @@
   {
 	"id": "orisa",
 	"heroType":"tank",
-    "firstType": "person",
-    "secondType": "Stark",
     "img": "resources/heros/img/list/orisa.png",
     "name": "奥丽莎",
     "html": "resources/heros/orisa/"
@@ -20,9 +16,7 @@
   {
 	"id": "reinhardt",
 	"heroType":"tank",
-    "firstType": "person",
-    "secondType": "Stark",
-    "img": "resources/heros/list/img/reinhardt.png",
+    "img": "resources/heros/img/list/reinhardt.png",
     "name": "莱因哈特",
     "html": "resources/heros/reinhardt/"
   }
