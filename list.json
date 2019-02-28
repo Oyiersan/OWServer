@@ -4,203 +4,203 @@
 	"heroType":"tank",
     "img": "resources/heros/img/list/dva.png",
     "name": "D.Va",
-    "html": "resources/heros/dva/"
+    "html": "resources/heros/detail/dva"
   },
   {
 	"id": "orisa",
 	"heroType":"tank",
     "img": "resources/heros/img/list/orisa.png",
     "name": "奥丽莎",
-    "html": "resources/heros/orisa/"
+    "html": "resources/heros/detail/orisa"
   },
   {
 	"id": "reinhardt",
 	"heroType":"tank",
     "img": "resources/heros/img/list/reinhardt.png",
     "name": "莱因哈特",
-    "html": "resources/heros/reinhardt/"
+    "html": "resources/heros/detail/reinhardt"
   },
   {
 	"id": "roadhog",
 	"heroType":"tank",
     "img": "resources/heros/img/list/roadhog.png",
     "name": "路霸",
-    "html": "resources/heros/roadhog/"
+    "html": "resources/heros/detail/roadhog"
   },
   {
 	"id": "winston",
 	"heroType":"tank",
     "img": "resources/heros/img/list/winston.png",
     "name": "温斯顿",
-    "html": "resources/heros/winston/"
+    "html": "resources/heros/detail/winston"
   },
   {
 	"id": "zarya",
 	"heroType":"tank",
     "img": "resources/heros/img/list/zarya.png",
     "name": "查莉娅",
-    "html": "resources/heros/zarya/"
+    "html": "resources/heros/detail/zarya"
   },
   {
 	"id": "wrecking-ball",
 	"heroType":"tank",
     "img": "resources/heros/img/list/wrecking-ball.png",
     "name": "破坏球",
-    "html": "resources/heros/wrecking-ball/"
+    "html": "resources/heros/detail/wrecking-ball"
   },
   {
 	"id": "ashe",
 	"heroType":"damage",
     "img": "resources/heros/img/list/ashe.png",
     "name": "艾什",
-    "html": "resources/heros/ashe/"
+    "html": "resources/heros/detail/ashe"
   },
   {
 	"id": "bastion",
 	"heroType":"damage",
     "img": "resources/heros/img/list/bastion.png",
     "name": "堡垒",
-    "html": "resources/heros/bastion/"
+    "html": "resources/heros/detail/bastion"
   },
   {
 	"id": "doomfist",
 	"heroType":"damage",
     "img": "resources/heros/img/list/doomfist.png",
     "name": "末日铁拳",
-    "html": "resources/heros/doomfist/"
+    "html": "resources/heros/detail/doomfist"
   },
   {
 	"id": "genji",
 	"heroType":"damage",
     "img": "resources/heros/img/list/genji.png",
     "name": "源氏",
-    "html": "resources/heros/genji/"
+    "html": "resources/heros/detail/genji"
   },
   {
 	"id": "hanzo",
 	"heroType":"damage",
     "img": "resources/heros/img/list/hanzo.png",
     "name": "半藏",
-    "html": "resources/heros/hanzo/"
+    "html": "resources/heros/detail/hanzo"
   },
   {
 	"id": "junkrat",
 	"heroType":"damage",
     "img": "resources/heros/img/list/junkrat.png",
     "name": "狂鼠",
-    "html": "resources/heros/junkrat/"
+    "html": "resources/heros/detail/junkrat"
   },
   {
 	"id": "mccree",
 	"heroType":"damage",
     "img": "resources/heros/img/list/mccree.png",
     "name": "麦克雷",
-    "html": "resources/heros/mccree/"
+    "html": "resources/heros/detail/mccree"
   },
   {
 	"id": "mei",
 	"heroType":"damage",
     "img": "resources/heros/img/list/mei.png",
     "name": "美",
-    "html": "resources/heros/mei/"
+    "html": "resources/heros/detail/mei"
   },
   {
 	"id": "pharah",
 	"heroType":"damage",
     "img": "resources/heros/img/list/pharah.png",
     "name": "法老之鹰",
-    "html": "resources/heros/pharah/"
+    "html": "resources/heros/detail/pharah"
   },
   {
 	"id": "reaper",
 	"heroType":"damage",
     "img": "resources/heros/img/list/reaper.png",
     "name": "死神",
-    "html": "resources/heros/reaper/"
+    "html": "resources/heros/detail/reaper"
   },
   {
 	"id": "soldier-76",
 	"heroType":"damage",
     "img": "resources/heros/img/list/soldier-76.png",
     "name": "士兵：76",
-    "html": "resources/heros/soldier-76/"
+    "html": "resources/heros/detail/soldier-76"
   },
   {
 	"id": "sombra",
 	"heroType":"damage",
     "img": "resources/heros/img/list/sombra.png",
     "name": "黑影",
-    "html": "resources/heros/sombra/"
+    "html": "resources/heros/detail/sombra"
   },
   {
 	"id": "symmetra",
 	"heroType":"damage",
     "img": "resources/heros/img/list/symmetra.png",
     "name": "秩序之光",
-    "html": "resources/heros/symmetra/"
+    "html": "resources/heros/detail/symmetra"
   },
   {
 	"id": "torbjorn",
 	"heroType":"damage",
     "img": "resources/heros/img/list/torbjorn.png",
     "name": "托比昂",
-    "html": "resources/heros/torbjorn/"
+    "html": "resources/heros/detail/torbjorn"
   },
   {
 	"id": "tracer",
 	"heroType":"damage",
     "img": "resources/heros/img/list/tracer.png",
     "name": "猎空",
-    "html": "resources/heros/tracer/"
+    "html": "resources/heros/detail/tracer"
   },
   {
 	"id": "widowmaker",
 	"heroType":"damage",
     "img": "resources/heros/img/list/widowmaker.png",
     "name": "黑百合",
-    "html": "resources/heros/widowmaker/"
+    "html": "resources/heros/detail/widowmaker"
   },
   {
 	"id": "ana",
 	"heroType":"support",
     "img": "resources/heros/img/list/ana.png",
     "name": "安娜",
-    "html": "resources/heros/ana/"
+    "html": "resources/heros/detail/ana"
   },
   {
 	"id": "brigitte",
 	"heroType":"support",
     "img": "resources/heros/img/list/brigitte.png",
     "name": "布丽吉塔",
-    "html": "resources/heros/brigitte/"
+    "html": "resources/heros/detail/brigitte"
   },
   {
 	"id": "lucio",
 	"heroType":"support",
     "img": "resources/heros/img/list/lucio.png",
     "name": "卢西奥",
-    "html": "resources/heros/lucio/"
+    "html": "resources/heros/detail/lucio"
   },
   {
 	"id": "mercy",
 	"heroType":"support",
     "img": "resources/heros/img/list/mercy.png",
     "name": "“天使”",
-    "html": "resources/heros/mercy/"
+    "html": "resources/heros/detail/mercy"
   },
   {
 	"id": "moira",
 	"heroType":"support",
     "img": "resources/heros/img/list/moira.png",
     "name": "莫伊拉",
-    "html": "resources/heros/moira/"
+    "html": "resources/heros/detail/moira"
   },
   {
 	"id": "zenyatta",
 	"heroType":"support",
     "img": "resources/heros/img/list/zenyatta.png",
     "name": "禅雅塔",
-    "html": "resources/heros/zenyatta/"
+    "html": "resources/heros/detail/zenyatta"
   }
 ]
 
